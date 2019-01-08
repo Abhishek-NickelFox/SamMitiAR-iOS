@@ -24,7 +24,7 @@ public class ThresholdPanGesture: UIPanGestureRecognizer {
     // override public var state: UIGestureRecognizer.State {
     
     // TODO: Delete this when Xcode10 is released
-    override public var state: UIGestureRecognizerState {
+    override public var state: UIGestureRecognizer.State {
         didSet {
             switch state {
             case .began, .changed:

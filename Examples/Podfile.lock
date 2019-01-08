@@ -1,6 +1,6 @@
 PODS:
   - GLTFSceneKit (0.1.3)
-  - SamMitiAR (1.0.0):
+  - SamMitiAR (1.0.1):
     - GLTFSceneKit (~> 0.1)
 
 DEPENDENCIES:
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   GLTFSceneKit: fbec7ef104128201bde53ac5bc37c8a05d764cdf
-  SamMitiAR: 827e92583ab198574a9c48300ea961e1083f0dcb
+  SamMitiAR: 0e019f4486a58ec9f0f56cd01c495cfae25c6ba2
 
 PODFILE CHECKSUM: 6ae50989df5cef888bfe6e9043ae809a1470ad59
 
